@@ -9,7 +9,7 @@
 "restart": "pm2 restart ckpmd"
 },
 "dependencies": {
-"@whiskeysockets/baileys": "git+https://github.com/PMD-API-UPDATE/Baileys6.6.0.git",
+"@whiskeysockets/baileys": "git+https://github.com/PMD-API-UPDATE/Baileys-6.6.0.git",
 "@adiwajshing/keyed-db": "^0.2.4",
 "wa_set_pkg": "1.0.1",
 "gemini-ai" : "latest",
@@ -20,6 +20,7 @@
 "imgur": "latest",
 "mathjs": "^12.0.0",
 "fraction.js": "^4.3.7",
+"unzipper":"0.12.2",
 "chart.js": "^4.4.0",
 "qs": "^6.10.1",
 "pino": "^7.0.5",
